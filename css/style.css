@@ -1,0 +1,12 @@
+/* This is a comment */
+p{
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+figcaption{
+  font-size:0.75em;
+  font-weight: normal;
+  line-height: normal;
+  font-family: georgia, "New Times Roman",sans-serif;
+}
